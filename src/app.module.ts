@@ -12,7 +12,7 @@ import { CoffeesModule } from './coffees/coffees.module';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'oct092483610',
+      password: '',
       database: 'coffee_db',
       autoLoadEntities: true,
       synchronize: true,
